@@ -1,2 +1,1 @@
-My top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LasRom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LasRom&theme=dark)](https://git.io/streak-stats)
